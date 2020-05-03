@@ -1,0 +1,82 @@
+[
+    {
+        "SerialNumber": "1",
+        "name": "Rice",
+        "quantity": "25",
+        "unit":"kg",
+        "Department":"food",
+        "notes":"Jyothi Rice"
+    },
+    {
+        "SerialNumber": "2",
+        "name": "Apple",
+        "quantity": "2",
+        "unit":"kg",
+        "Department":"fruit",
+        "notes":"Kashmiri Apple"
+    },
+    {
+        "SerialNumber": "3",
+        "name": "Banana",
+        "quantity": "2",
+        "unit":"kg",
+        "Department":"fruit",
+        "notes":"Nadan"
+    },
+    {
+        "SerialNumber": "4",
+        "name": "Cocanut oil",
+        "quantity": "2",
+        "unit":"litre",
+        "Department":"food",
+        "notes":"malayoram"
+    },
+    {
+        "SerialNumber": "5",
+        "name": "Beef",
+        "quantity": "2",
+        "unit":"kg",
+        "Department":"meat",
+        "notes":"fresh"
+    },
+    {
+        "SerialNumber": "6",
+        "name": "Bread",
+        "quantity": "1",
+        "unit":"pack",
+        "Department":"food",
+        "notes":"home made"
+    },
+    {
+        "SerialNumber": "7",
+        "name": "milk",
+        "quantity": "1",
+        "unit":"litre",
+        "Department":"food",
+        "notes":"milma"
+    },
+    {
+        "SerialNumber": "8",
+        "name": "egg",
+        "quantity": "10",
+        "unit":"pieces",
+        "Department":"food",
+        "notes":"local"
+    },
+    {
+        "SerialNumber": "9",
+        "name": "honey",
+        "quantity": "1",
+        "unit":"kg",
+        "Department":"food",
+        "notes":"wayanadan"
+    },
+    {
+        "SerialNumber": "10",
+        "name": "sugar",
+        "quantity": "2",
+        "unit":"kg",
+        "Department":"food",
+        "notes":"special price"
+    }
+]
